@@ -2,7 +2,7 @@
 
 > *The foundation of computer science, mathematics, and logic.*
 
-Course materials repository for this [course](https://dm-aisd.yonote.ru/share/itmo_dm_aisd).
+Practice materials repository for this [course](https://dm-aisd.yonote.ru/share/itmo_dm_aisd).
 
 ## Course Structure
 ```
